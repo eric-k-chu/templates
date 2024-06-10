@@ -18,6 +18,7 @@ import {
 export default function App(): React.ReactElement {
   return (
     <main className='flex min-h-screen items-center justify-center'>
+      <img src='/vite.svg' alt='vite logo' className='fixed left-2 top-2' />
       <Card className='w-[350px]'>
         <CardHeader>
           <CardTitle>Create project</CardTitle>
