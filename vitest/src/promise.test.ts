@@ -10,9 +10,7 @@ vi.mock('./promise', async (importOriginal) => {
   }
 })
 
-vi.mocked(getAllUsers).mockImplementation(() => {
-  return Promise.resolve(testUsers)
-})
+vi.mocked(getAllUsers).mockImplementation(() => Promise.resolve(testUsers))
 
 describe('Mock Test', () => {
   it('should be able to fetch users', async () => {
