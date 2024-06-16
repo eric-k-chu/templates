@@ -21,7 +21,7 @@
     "strictNullChecks": true,
     "lib": ["ESNext"],
     "outDir": "dist",
-    "types": ["node"]
+    "types": ["vitest", "node"]
   },
   "include": ["."],
   "exclude": ["node_modules"]
