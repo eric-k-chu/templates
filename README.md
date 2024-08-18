@@ -9,3 +9,9 @@ All templates here are in TypeScript.
 ```bash
 pnpm dlx degit eric-k-chu/templates/<folder>
 ```
+
+#### Update
+
+```bash
+pnpm up -r
+```
