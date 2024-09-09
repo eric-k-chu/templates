@@ -13,5 +13,5 @@ pnpm dlx degit eric-k-chu/templates/<folder>
 #### Update
 
 ```bash
-pnpm up -r
+pnpm up -r --latest
 ```
