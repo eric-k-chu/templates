@@ -1,0 +1,10 @@
+{
+  "name": "vun",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@biomejs/biome": "^1.9.4",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}
