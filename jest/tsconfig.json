@@ -27,8 +27,7 @@
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false,
     "types": [
-      "bun-types",
-      "vitest/globals"
+      "jest"
     ]
   }
 }
