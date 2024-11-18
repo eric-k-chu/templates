@@ -1,5 +1,5 @@
 # templates
 
-```bash
-bun run degit eric-k-chu/templates/tmpl/<folder_name>
+```sh
+bunx degit eric-k-chu/templates/<folder_name>
 ```
